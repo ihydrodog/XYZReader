@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-38661dbc9039c9858a4ce8639ca704407f6018c9.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-edbc8163f3be5dbf560548df1b915e4f2a6a4b47.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-a2fd92e48bf157c5009dd6fe8e8e0449d3407c71.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-47b9c5fd7f8001ec05c9d7bde3c3ad70230574ea.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-88d10cb39a310ab204c5fe37904803e1d6f9101b.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-446fbc671ed5fa6206b8d43bafcd22477121c156.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-f069a9453f7c7fe4c165cb32a5a66133ab4c6a5c.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-db7f36eedbd66757da953daa05769b9c131a8f3a.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-a7d8f4193934c5db66ddabc107051bdb8012b8c1.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-d3b54261568e51167f64d6437bcfd722124d47e5.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-81d4bd66dc1abb81d2d72430b96748e2ada25686.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-1a563bbf55ac9549ff60ba5770ff076cffb4b6be.jar" />
+    </item>
+    <item
+        jar="/Users/hydro/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hydro/Downloads/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-3708a82250bbdbc95fe5a0a98f82844ef6faa339.jar" />
+    </item>
+
+</items>
