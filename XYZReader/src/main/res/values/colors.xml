@@ -23,5 +23,7 @@
     <color name="theme_accent">#04561A</color>
     <color name="darkgray">#ff808080</color>
     <color name="subtitle">#6000</color>
+    <color name="bar_bg">#333</color>
+    <color name="article_bg">#fff</color>
 
 </resources>
